@@ -22,5 +22,8 @@ th { border-bottom: 1px solid #DDD; }
 
 h1 {
     text-align: center;
-    text-decoration: line-through;
+    
+    height: auto;
+    width: 100%;
+
 }
