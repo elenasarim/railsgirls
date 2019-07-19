@@ -17,7 +17,7 @@ group :production do
 end
 # Use Puma as the app server
 gem 'carrierwave'
-gem 'mini_magick', '3.8.0'
+gem 'mini_magick', '4.9.4'
 gem 'puma', '~> 3.0'
 gem 'devise'
 gem 'gravtastic'
